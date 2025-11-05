@@ -4,10 +4,9 @@
 This project analyzes electricity consumption data to provide data-driven insights for infrastructure investment, distribution optimization, and supply chain enhancement. The analysis focuses on identifying demand patterns, forecasting future needs, and recommending strategic investments in grid infrastructure.
 
 ## Team Members
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Add more as needed]
+- Divyanshi Sachan
+- Soniya Malviya
+- Aryan Soni
 
 ## Research Questions
 

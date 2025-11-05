@@ -125,8 +125,18 @@ For **Problem Understanding (20 marks)**, we need:
 
 ## Documents
 
-- `primary_questions.md` - Detailed primary questions
-- `exploratory_questions.md` - EDA questions
-- `hypothesis_questions.md` - Hypothesis testing questions
-- `question_evolution.md` - How questions evolved
+### Core Documentation (Problem Understanding - 20 marks) ⭐
+
+- **`problem_statement.md`** - Comprehensive problem statement with context, research gap, and significance
+- **`primary_questions.md`** - Detailed primary questions with theoretical foundation, sub-questions, objectives, and expected outcomes
+- **`research_objectives.md`** - Clear articulation of research objectives with success criteria and methodology
+- **`context_and_background.md`** - Context and background for each research question, explaining why they matter
+
+### Additional Documentation
+
+- `exploratory_questions.md` - EDA questions (to be created)
+- `hypothesis_questions.md` - Hypothesis testing questions (to be created)
+- `question_evolution.md` - How questions evolved (to be created)
+
+**⭐ Key documents for "Problem Understanding and Identification" evaluation (17-20 marks)**
 
