@@ -33,7 +33,15 @@ data-mining/
 │   ├── data_processing/  # Data cleaning and preprocessing
 │   ├── analysis/         # Exploratory and predictive analysis
 │   └── visualization/    # Heatmaps and visualizations
-├── docs/                 # Documentation
+├── research/             # Research documentation (HIGH PRIORITY)
+│   ├── literature_review/    # Comprehensive literature review
+│   ├── hypotheses/            # Research hypotheses and testing
+│   ├── methodology/           # Research methodology and theory
+│   ├── references/            # Bibliography and citations
+│   ├── research_questions/     # Research questions documentation
+│   ├── innovation/            # Innovation and novel contributions
+│   └── research_log/           # Weekly research notes
+├── docs/                 # General documentation
 ├── tests/                # Unit tests
 └── app/                  # Interactive dashboard
 ```
@@ -76,6 +84,16 @@ data-mining/
 
 ## Methodology
 See `docs/methodology.md` for detailed methodology and analysis philosophy.
+
+## Research Documentation
+See `research/README.md` for comprehensive research documentation including:
+- **Literature Review**: 20-30+ academic papers and reports
+- **Hypotheses**: Novel, well-founded research hypotheses
+- **Methodology**: Theoretical foundation and research design
+- **Innovation**: Novel contributions and insights
+- **References**: Complete bibliography
+
+**Note**: Research documentation has maximum weightage (40 marks combined) in evaluation criteria.
 
 ## Key Deliverables
 
